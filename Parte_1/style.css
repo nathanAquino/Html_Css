@@ -2,17 +2,21 @@ body {
 
 }
 
+.titulo-principal {
+    padding-left: 20px;
+}
+
 .principal{
     background: #CCCCCC;
     padding: 30px;
 }
 
-#banner {
-    width: 100%;
+.titulo-centralizado {
+    text-align: center
 }
 
-h1 {
-    text-align: center
+#banner {
+    width: 100%;
 }
 
 p {
